@@ -1,1 +1,1 @@
-student system branch1
+Student Management System - Registration and Search Features
